@@ -2,11 +2,14 @@
     "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
     "contentVersion": "1.0.0.0",
     "parameters": {
+        "frontendaspname": {"value":"credisson1"},
+        "frontendwebappname1": {"value":"credisson2"},
         "adminUsername": {
-            "value": "admin.alino"
+            "value": "thisistheuser"
         },
         "adminPassword": {
-            "value": "C3t3l3m@2019"
-        }
+            "value": "Thisisthepassword10!"
+        },
+        "storageAccountType": {"value":"Standard_LRS"}
     }
 }
