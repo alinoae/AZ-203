@@ -3,10 +3,10 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "adminUsername": {
-            "value": "GEN-UNIQUE"
+            "value": "admin.alino"
         },
         "adminPassword": {
-            "value": "GEN-PASSWORD"
+            "value": "C3t3l3m@2019"
         }
     }
 }
