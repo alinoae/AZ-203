@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "virtualMachineSize": {
-      "type": "string",
+      "type": "string"},
       "frontendaspname": {"type":"string"},
       "frontendwebappname1": {"type":"string"},
       "defaultValue": "Standard_F2s_v2",
